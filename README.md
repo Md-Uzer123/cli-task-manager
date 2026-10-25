@@ -10,7 +10,7 @@ A command-line Task Manager built with Python — Add, View, Update and Delete t
 -  Input Validation & Error Handling
 
 ##  Tech Stack
-- Python 3.x
+- Python
 - JSON (data storage)
 - CLI (Command Line Interface)
 
